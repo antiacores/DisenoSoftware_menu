@@ -67,3 +67,8 @@ function App() {
 }
 
 export default App;
+
+/* 
+EASTER EGG: ¿qué sucede si se pasa una lista vacía como segundo argumento en useEffect?
+significa que el efecto solo se ejecutará una vez.
+*/
